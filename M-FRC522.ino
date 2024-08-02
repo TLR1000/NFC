@@ -1,4 +1,4 @@
-# Setup that works with Wemos D1 D2 & mini
+# Setup that works with Wemos D1 D2 & mini test setup for I2C and one-wire configurations.
 # connections:
 # kleur   RFID-RC511  Wemos mini
 # groen   SDA         D8
